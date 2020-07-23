@@ -1,2 +1,2 @@
 # LearnDash-Snippets
-You can find useful scrap code to extend features of LearnDash LMS plugin
+You can find useful scrap codes to extend features of LearnDash LMS plugin
